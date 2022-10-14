@@ -1,0 +1,67 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.darsiwan.crudsqliite"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="15"
+8-->C:\Users\LENOVO IP3\AndroidStudioProjects\sqlite-android-java\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->C:\Users\LENOVO IP3\AndroidStudioProjects\sqlite-android-java\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->C:\Users\LENOVO IP3\AndroidStudioProjects\sqlite-android-java\app\src\main\AndroidManifest.xml:5:5-28:19
+12        android:allowBackup="true"
+12-->C:\Users\LENOVO IP3\AndroidStudioProjects\sqlite-android-java\app\src\main\AndroidManifest.xml:6:9-35
+13        android:debuggable="true"
+14        android:icon="@mipmap/ic_launcher"
+14-->C:\Users\LENOVO IP3\AndroidStudioProjects\sqlite-android-java\app\src\main\AndroidManifest.xml:7:9-43
+15        android:label="@string/app_name"
+15-->C:\Users\LENOVO IP3\AndroidStudioProjects\sqlite-android-java\app\src\main\AndroidManifest.xml:8:9-41
+16        android:supportsRtl="true"
+16-->C:\Users\LENOVO IP3\AndroidStudioProjects\sqlite-android-java\app\src\main\AndroidManifest.xml:9:9-35
+17        android:testOnly="true"
+18        android:theme="@style/AppTheme" >
+18-->C:\Users\LENOVO IP3\AndroidStudioProjects\sqlite-android-java\app\src\main\AndroidManifest.xml:10:9-40
+19        <activity
+19-->C:\Users\LENOVO IP3\AndroidStudioProjects\sqlite-android-java\app\src\main\AndroidManifest.xml:11:9-18:20
+20            android:name="com.example.darsiwan.crudsqliite.MainActivity"
+20-->C:\Users\LENOVO IP3\AndroidStudioProjects\sqlite-android-java\app\src\main\AndroidManifest.xml:11:19-47
+21            android:exported="true" >
+21-->C:\Users\LENOVO IP3\AndroidStudioProjects\sqlite-android-java\app\src\main\AndroidManifest.xml:12:13-36
+22            <intent-filter>
+22-->C:\Users\LENOVO IP3\AndroidStudioProjects\sqlite-android-java\app\src\main\AndroidManifest.xml:13:13-17:29
+23                <action android:name="android.intent.action.MAIN" />
+23-->C:\Users\LENOVO IP3\AndroidStudioProjects\sqlite-android-java\app\src\main\AndroidManifest.xml:14:17-69
+23-->C:\Users\LENOVO IP3\AndroidStudioProjects\sqlite-android-java\app\src\main\AndroidManifest.xml:14:25-66
+24
+25                <category android:name="android.intent.category.LAUNCHER" />
+25-->C:\Users\LENOVO IP3\AndroidStudioProjects\sqlite-android-java\app\src\main\AndroidManifest.xml:16:17-77
+25-->C:\Users\LENOVO IP3\AndroidStudioProjects\sqlite-android-java\app\src\main\AndroidManifest.xml:16:27-74
+26            </intent-filter>
+27        </activity>
+28        <activity
+28-->C:\Users\LENOVO IP3\AndroidStudioProjects\sqlite-android-java\app\src\main\AndroidManifest.xml:19:5-21:16
+29            android:name="com.example.darsiwan.crudsqliite.BuatBiodata"
+29-->C:\Users\LENOVO IP3\AndroidStudioProjects\sqlite-android-java\app\src\main\AndroidManifest.xml:19:15-42
+30            android:label="@string/title_activity_buatbiodata" >
+30-->C:\Users\LENOVO IP3\AndroidStudioProjects\sqlite-android-java\app\src\main\AndroidManifest.xml:20:9-59
+31        </activity>
+32        <activity
+32-->C:\Users\LENOVO IP3\AndroidStudioProjects\sqlite-android-java\app\src\main\AndroidManifest.xml:22:5-24:16
+33            android:name="com.example.darsiwan.crudsqliite.LihatBiodata"
+33-->C:\Users\LENOVO IP3\AndroidStudioProjects\sqlite-android-java\app\src\main\AndroidManifest.xml:22:15-43
+34            android:label="@string/title_activity_lihatbiodata" >
+34-->C:\Users\LENOVO IP3\AndroidStudioProjects\sqlite-android-java\app\src\main\AndroidManifest.xml:23:9-60
+35        </activity>
+36        <activity
+36-->C:\Users\LENOVO IP3\AndroidStudioProjects\sqlite-android-java\app\src\main\AndroidManifest.xml:25:5-27:16
+37            android:name="com.example.darsiwan.crudsqliite.UpdateBiodata"
+37-->C:\Users\LENOVO IP3\AndroidStudioProjects\sqlite-android-java\app\src\main\AndroidManifest.xml:25:15-44
+38            android:label="@string/title_activity_updatebiodata" >
+38-->C:\Users\LENOVO IP3\AndroidStudioProjects\sqlite-android-java\app\src\main\AndroidManifest.xml:26:9-61
+39        </activity>
+40    </application>
+41
+42</manifest>

@@ -1,0 +1,9 @@
+com.example.darsiwan.crudsqliite.app-appcompat-v7-24.1.1-0 C:\Users\LENOVO IP3\.gradle\caches\transforms-3\545049bc66496a18c487610004eee61e\transformed\appcompat-v7-24.1.1\res
+com.example.darsiwan.crudsqliite.app-pngs-1 C:\Users\LENOVO IP3\AndroidStudioProjects\sqlite-android-java\app\build\generated\res\pngs\debug
+com.example.darsiwan.crudsqliite.app-resValues-2 C:\Users\LENOVO IP3\AndroidStudioProjects\sqlite-android-java\app\build\generated\res\resValues\debug
+com.example.darsiwan.crudsqliite.app-rs-3 C:\Users\LENOVO IP3\AndroidStudioProjects\sqlite-android-java\app\build\generated\res\rs\debug
+com.example.darsiwan.crudsqliite.app-mergeDebugResources-4 C:\Users\LENOVO IP3\AndroidStudioProjects\sqlite-android-java\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.darsiwan.crudsqliite.app-mergeDebugResources-5 C:\Users\LENOVO IP3\AndroidStudioProjects\sqlite-android-java\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.darsiwan.crudsqliite.app-merged_res-6 C:\Users\LENOVO IP3\AndroidStudioProjects\sqlite-android-java\app\build\intermediates\merged_res\debug
+com.example.darsiwan.crudsqliite.app-debug-7 C:\Users\LENOVO IP3\AndroidStudioProjects\sqlite-android-java\app\src\debug\res
+com.example.darsiwan.crudsqliite.app-main-8 C:\Users\LENOVO IP3\AndroidStudioProjects\sqlite-android-java\app\src\main\res

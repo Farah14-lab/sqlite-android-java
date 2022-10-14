@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "com.example.darsiwan.crudsqliite.app-merged_res-6:/drawable_icon_add.png.flat",
+        "source": "com.example.darsiwan.crudsqliite.app-main-8:/drawable/icon_add.png"
+    },
+    {
+        "merged": "com.example.darsiwan.crudsqliite.app-merged_res-6:/drawable_ic_done.png.flat",
+        "source": "com.example.darsiwan.crudsqliite.app-main-8:/drawable/ic_done.png"
+    },
+    {
+        "merged": "com.example.darsiwan.crudsqliite.app-merged_res-6:/layout_activity_buat_biodata.xml.flat",
+        "source": "com.example.darsiwan.crudsqliite.app-main-8:/layout/activity_buat_biodata.xml"
+    },
+    {
+        "merged": "com.example.darsiwan.crudsqliite.app-merged_res-6:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.darsiwan.crudsqliite.app-main-8:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.darsiwan.crudsqliite.app-merged_res-6:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.darsiwan.crudsqliite.app-main-8:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.darsiwan.crudsqliite.app-merged_res-6:/layout_activity_update_biodata.xml.flat",
+        "source": "com.example.darsiwan.crudsqliite.app-main-8:/layout/activity_update_biodata.xml"
+    },
+    {
+        "merged": "com.example.darsiwan.crudsqliite.app-merged_res-6:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.darsiwan.crudsqliite.app-main-8:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.darsiwan.crudsqliite.app-merged_res-6:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.example.darsiwan.crudsqliite.app-main-8:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.darsiwan.crudsqliite.app-merged_res-6:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.example.darsiwan.crudsqliite.app-main-8:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.darsiwan.crudsqliite.app-merged_res-6:/drawable_ic_arrow.png.flat",
+        "source": "com.example.darsiwan.crudsqliite.app-main-8:/drawable/ic_arrow.png"
+    },
+    {
+        "merged": "com.example.darsiwan.crudsqliite.app-merged_res-6:/layout_activity_lihat_biodata.xml.flat",
+        "source": "com.example.darsiwan.crudsqliite.app-main-8:/layout/activity_lihat_biodata.xml"
+    },
+    {
+        "merged": "com.example.darsiwan.crudsqliite.app-merged_res-6:/drawable_icon_save.png.flat",
+        "source": "com.example.darsiwan.crudsqliite.app-main-8:/drawable/icon_save.png"
+    },
+    {
+        "merged": "com.example.darsiwan.crudsqliite.app-merged_res-6:/layout_activity_main.xml.flat",
+        "source": "com.example.darsiwan.crudsqliite.app-main-8:/layout/activity_main.xml"
+    }
+]
